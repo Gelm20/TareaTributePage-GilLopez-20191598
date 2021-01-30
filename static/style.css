@@ -10,11 +10,12 @@ p {
     padding: 20px;
     border-radius: 20px;
 }
+
 .conAltura {
     height: 250px;
 }
 
-#mainTitle {
+.mainTitle {
     text-align: center;
     margin: 20px;
     padding: 20px;
@@ -22,17 +23,6 @@ p {
     background-color: #74f6a7;
 }
 
-.imagenesl {
-    height: 250px;
-    margin: 20px 25px 25px 40px;
-    float: left;
-}
-
-.imagenesr {
-    height: 250px;
-    margin: 20px 25px 25px 40px;
-    float: right;
-}
 
 footer {
     background: black;
