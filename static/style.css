@@ -4,24 +4,7 @@
     font-family: 'Work Sans', sans-serif;
 }
 
-p {
-    background-color: aquamarine;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 20px;
-}
 
-.conAltura {
-    height: 250px;
-}
-
-.mainTitle {
-    text-align: center;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 20px;
-    background-color: #74f6a7;
-}
 
 
 footer {
