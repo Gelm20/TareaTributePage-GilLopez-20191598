@@ -9,9 +9,9 @@ p {
     margin: 20px;
     padding: 20px;
     border-radius: 20px;
+}
+.conAltura {
     height: 250px;
-    vertical-align: 50%;
-    text-rendering: geometricPrecision;
 }
 
 #mainTitle {
@@ -22,13 +22,13 @@ p {
     background-color: #74f6a7;
 }
 
-.imagenes1 {
+.imagenesl {
     height: 250px;
     margin: 20px 25px 25px 40px;
     float: left;
 }
 
-.imagenes2 {
+.imagenesr {
     height: 250px;
     margin: 20px 25px 25px 40px;
     float: right;
